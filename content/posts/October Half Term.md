@@ -5,7 +5,7 @@ date: 2024-10-25
 lastmod: 2024-10-25
 shwTableOfContents: false
 tags: ["college", "Installation", "PC", "IT"]
-tile: "October Half Term"
+title: "October Half Term"
 type: "post"
 ---
 
