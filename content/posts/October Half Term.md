@@ -4,8 +4,8 @@ date: 2024-10-25
 # image: ""
 lastmod: 2024-10-25
 shwTableOfContents: false
-tags: ["hugo"]
-tile: "Hugo"
+tags: ["college", "Installation", "PC", "IT"]
+tile: "October Half Term"
 type: "post"
 ---
 
