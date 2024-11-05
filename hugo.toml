@@ -20,13 +20,7 @@ title = "Callum's Portfolio"
 
     # Lower weights are listed first in the menu (leftmost); higher weights are
     # listed last in the menu (rightmost)
-    weight = 2
-
-  [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 3
-    
+    weight = 2    
   [[menu.main]]
     # Unique identifiers are required for menu entries without a name property,
     # or for menu entries which re-use a name
