@@ -1,7 +1,11 @@
 ---
-date: 2024-11-04
-lastmod: 2024-11-04
-title: "Setting Up Users"
+date: 2024-11-11
+# description: ""
+# image: ""
+lastmod: 2024-11-11
+showTableOfContents: false
+# tags: ["",]
+title: "Reseting User Passwords"
 type: "post"
 ---
 
@@ -19,13 +23,12 @@ type: "post"
 - Click the arrow next to B126B.local then click the arrow next to the group
 - Click on the groups name
 You will now see a list of Users
-- Click the little person with the start at the top
-- Then fill in the details below:
-    - Enter Users Firstname
-    - Enter Users Surname
-    - Check username matches college username with an explanation mark at the end like ```708003!```
-    - Click next then set the default password - ```B126B-D```
-    - Make sure change password at next sign in is enabled
+- Right Click the user you want to reset the password for
+- Click Reset Password...
+- Enter the following password - ```B126B-D```
+- Make sure to select User must change password at next logon 
+- If it says the Account Lockout Status is Locked then select Unlock the user's account
+- Click Ok
 
 ## Close the server
 - Drag your mouse to the top centre of the screen
